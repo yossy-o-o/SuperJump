@@ -1,6 +1,6 @@
 # SuperJump
 
-![ゲーム画面1](superJump1.pmg)
+![ゲーム画面1](superJump1.png)
 ![ゲーム画面2](superJump2.pmg)
 ![ゲーム画面3](superJump3.pmg)
 ![ゲーム画面4](superJump4.pmg)
