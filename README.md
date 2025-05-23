@@ -1,9 +1,6 @@
 # SuperJump
 
 **SuperJump** は、プレイヤーのジャンプ操作を軸にしたシンプルかつスリリングなアクションゲームです。
-
-![Unityroomバナー](https://unityroom.com/games/superjump/ogp.png) <!-- 任意：UnityroomのOGP画像URLがあれば表示されます -->
-
 ---
 
 ## 🎮 プレイ方法
@@ -14,12 +11,6 @@
 ### 💾 ダウンロード版（Windows向け）
 [itch.ioからダウンロード](https://yotya.itch.io/superjump)
 
----
-
-## 📷 スクリーンショット
-（任意：画像を追加）
-
----
 
 ## 🛠️ 開発環境
 
