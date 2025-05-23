@@ -1,10 +1,10 @@
 # SuperJump
 
 ![ゲーム画面1](superJump1.pmg)
-![ゲーム画面1](superJump2.pmg)
-![ゲーム画面1](superJump3.pmg)
-![ゲーム画面1](superJump4.pmg)
-![ゲーム画面1](superJump5.pmg)
+![ゲーム画面2](superJump2.pmg)
+![ゲーム画面3](superJump3.pmg)
+![ゲーム画面4](superJump4.pmg)
+![ゲーム画面5](superJump5.pmg)
 
 
 **SuperJump** は、プレイヤーのジャンプ操作を軸にしたシンプルかつスリリングなアクションゲームです。
