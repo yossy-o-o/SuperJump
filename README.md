@@ -37,7 +37,7 @@
 
 ## 🔗 作者情報
 
-- 開発：よう めぐ（[@GitHub](https://github.com/yossy-o-o)）
+- 開発：yotya（[@GitHub](https://github.com/yossy-o-o)）
 
 ---
 
